@@ -1,0 +1,57 @@
+.Octopus{
+  font-size:200%;
+ 
+}
+.intial{
+  font:italic 18px Georgia,serif;
+  color:white;
+
+}
+
+.placeholder.png{
+ width:100px;
+ margin:300px;
+ position:fixed;
+ top:300px;
+ right:300px;
+
+}
+
+ul
+{list-style-type: none;
+  padding:0;
+  margin:0;
+  border:0;
+  
+}
+
+.name{
+  font:20px bold Georgia,serif;
+
+}
+ .length{
+  font:20px bold Georgia,serif;
+  
+}
+.lifespan{
+  font:20px bold Georgia,serif;
+}
+.habitat{
+  font:20px bold Georgia,serif;}
+
+  
+.paragraph{
+  font:20px bold Georgia,serif;}
+
+body {background-color:rgb(15,80,50);
+ border-style:solid;
+ border-width:thin;
+ width:340px
+}
+
+
+div{
+  border-style:solid;
+ border-width:thin;
+
+}
